@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">Junior software developer based in the United Kingdom</h3>
-
-- 🔭 I’m currently working on turning [adaptive-typing](https://github.com/sxeix/adaptive-typing) into a web app!
+<h3 align="center">Software developer based in the United Kingdom</h3>
 
 - 👨‍💻 Find out more about my projects on [my website](https://jamesbryant.netlify.app/)
 
-- 💬 Ask me about **Java, Angular, JS, TS, SQL**
+- 💬 Ask me about **Java, JS, SQL, Angular**
 
 - 📫 How to reach me **sxeixarts@gmail.com**
 
